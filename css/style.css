@@ -1,0 +1,35 @@
+
+.tdContainer{
+	position: relative;
+}
+.quantity{
+	position: absolute;
+    font-size: 16px;
+    top: 8px;
+    right: 40px;
+}
+.sorted{
+	margin-top: 40px;
+}
+
+.header{
+	color: #ff5c33;
+	font-size: 48pt;
+}
+
+a{
+	color: #ff5c33;
+}
+
+.headerColor {
+	width: 1200px;
+	height: 30px;
+	background-color: #ff5c33;
+	color: white;
+}
+
+.headerFont{
+	text-align: center;
+	font-size: 15pt;
+}
+
